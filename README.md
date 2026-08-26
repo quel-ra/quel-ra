@@ -5,14 +5,39 @@
 🐍 Explorando o mundo da programação  
 🌱 Construindo minha jornada como desenvolvedora
 
+## 🌸 Sobre mim
+
+Sou estudante de **Desenvolvimento de Sistemas** e estou construindo minha jornada na área de tecnologia.
+
+Atualmente, estou desenvolvendo meus conhecimentos em programação, além de estudar **Python, HTML, CSS, Linux e Git/GitHub**.
+
+Gosto de aprender coisas novas, resolver problemas e transformar ideias em projetos. 🚀
+
 ## 💻 Tecnologias
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+</div>
+
+---
+
+## 🖥️ Sistemas Operacionais
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" title="Windows"/>
+</div>
+
+---
+
+## 🛠️ Ferramentas
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="Visual Studio Code"/>
 </div>
 
 ## 🌱 Atualmente estudando
@@ -21,7 +46,9 @@
 - 🌐 HTML
 - 🎨 CSS
 - 🐧 Linux
+- 🪟 Windows
 - 🔧 Git e GitHub
+- 📝 VS Code
 
 ---
 
@@ -37,8 +64,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
 ✨ *Transformando curiosidade em código, um passo de cada vez.*
