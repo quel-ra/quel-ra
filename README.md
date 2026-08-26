@@ -54,7 +54,7 @@ Gosto de aprender coisas novas, resolver problemas e transformar ideias em proje
 
 ## 📫 Entre em contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-m-614b463/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-g-moura/)
 <a href="mailto:raquel.gomes995@hotmail.com">
   <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
 </a>
