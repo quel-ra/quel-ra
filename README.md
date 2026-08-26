@@ -1,25 +1,44 @@
-## Olá, eu sou a Raquel 👋
+# 🌷 Olá! Eu sou a Raquel 👋
 
-- Estudante Tecnico Desenvolvimento de Sistemas 🎓
-- Aprendendo Python 💻
-- Preparando-se para o mercado de tecnologia 🚀
+🎓 Estudante de Desenvolvimento de Sistemas  
+💻 Apaixonada por tecnologia e aprendizado  
+🐍 Explorando o mundo da programação  
+🌱 Construindo minha jornada como desenvolvedora
 
+## 💻 Tecnologias
 
-## Tecnologias que estudo
-<div style="display: inline_block"><br>
- <img align="center" alt="Python" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- <img align="center" alt="HTML" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
- <img align="center" alt="Java" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- <img align="center" alt="Csharp" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div> 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" />
+</div>
 
+## 🌱 Atualmente estudando
 
-## Como me encontrar 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-m-614b463a4) 
-[![Hotmail](https://img.shields.io/badge/hotmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:raquel.gomes995@hotmail.com) 
+- 🐍 Python
+- 🌐 HTML
+- 🎨 CSS
+- 🐧 Linux
+- 🔧 Git e GitHub
+
+---
+
+## 📫 Entre em contato
+
+<a href="www.linkedin.com/in/raquel-m-614b463">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:raquel.gomes995@hotmail.com">
+  <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+✨ *Transformando curiosidade em código, um passo de cada vez.*
